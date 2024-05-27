@@ -3,10 +3,10 @@
 
 <br>
 <br>
-
-- 🔭 I’m currently working on getting my Web Developer title
-- 🌱 I’m currently learning HTML, CSS & Java
-
+<p align="center">
+  🔭 I’m currently working on getting my Web Developer title<br>
+  🌱 I’m currently learning HTML, CSS & Java
+</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
