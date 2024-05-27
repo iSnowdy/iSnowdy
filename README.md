@@ -14,3 +14,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iSnowdy&theme=algolia&show_icons=true&locale=en&layout=compact" alt="snow_lang_stats">
 </p>
+
+<p align="center">
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iSnowdy&theme=algolia&show_icons=true&locale=en" alt="iSnowdy" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iSnowdy&theme=algolia" alt="iSnowdy" />
+</p>
