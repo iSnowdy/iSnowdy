@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andy (Snow)</h1>
 <h3 align="center">I'm studying Web Development in Mallorca, Spain</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iSnowdy&label=Profile%20views&color=0e75b6&style=flat" alt="iSnowdy" /> </p>
+
 <br>
 <br>
 <p align="center">
